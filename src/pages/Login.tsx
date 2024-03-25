@@ -8,10 +8,10 @@ export default function LoginPage() {
           alt="Spotify logo"
         />
         <a
-          className="p-5 rounded-[99px] font-semibold text-white bg-[#1db954] no-underline"
+          className="p-5 rounded-[99px] font-semibold text-white bg-[#1db954] no-underline uppercase"
           href="#"
         >
-          LOGIN WITH SPOTIFY
+          login with spotify
         </a>
       </div>
     </>
